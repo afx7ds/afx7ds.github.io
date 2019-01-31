@@ -698,7 +698,8 @@ main {
 #contact a:link,
 #contact a:active,
 #contact a:visited {
-    display: inline-block;
+    display: block;
+    width: 200px;
     padding: 5px 0;
 }
 #contact i {
