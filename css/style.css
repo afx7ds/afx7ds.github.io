@@ -715,6 +715,11 @@ main {
     margin-right: 5px;
 }
 
+/* onboarding */
+#onboarding {
+    padding: 70px 0;
+}
+
 
 /**
  * 6.0 Footer
