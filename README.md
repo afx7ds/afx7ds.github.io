@@ -1,1 +1,3 @@
-# afx7ds.github.io
+---
+permalink: /index.html
+---
