@@ -25,24 +25,34 @@
 
 <body>
 	<main id="main">
-		<section id="onboarding">
-			<div class="grid">
-				<div class="col-1-2 push-4">
-					<h1>Welcome to AFX 7DS</h1>
-					<ul>
-						<li>
-							<a href="/syllabus">Syllabus</a>
-						</li>
-						<li>
-							<a href="/roster-questionnaire" target="_blank">Roster Questionnaire</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</section>
+		<form id="staticrypt-form" action="#" method="post">
+            <input id="staticrypt-password"
+                   type="password"
+                   name="password"
+                   placeholder="passphrase"
+                   autofocus/>
+            <input type="submit" class="staticrypt-decrypt-button" value="→"/>
+        </form>
 	</main>
 	<script type="text/javascript" src="/js/jquery.js"></script>
 	<script type="text/javascript" src="/js/style.js"></script>
+	<script type="text/javascript" src="/js/kryptojs.js"></script>
+	<script>
+		document.getElementById('staticrypt-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        var passphrase = document.getElementById('staticrypt-password').value,
+            encryptedMsg = '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',
+            encryptedHMAC = encryptedMsg.substring(0, 64),
+            encryptedHTML = encryptedMsg.substring(64),
+            decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
+        if (decryptedHMAC !== encryptedHMAC) {
+            alert('Bad passphrase!');
+            return;
+        }
+        var plainHTML = CryptoJS.AES.decrypt(encryptedHTML, passphrase).toString(CryptoJS.enc.Utf8);
+        document.getElementById("main").innerHTML = plainHTML;
+    });
+	</script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script>
 		window.dataLayer = window.dataLayer || [];

@@ -604,7 +604,7 @@ h1, h2 {
     text-transform: uppercase;
     color: #eee;
 }
-h3, h4, li, a, button, input {
+h3, h4, a, button, input {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 400;
     font-style: italic;
@@ -623,7 +623,6 @@ p {
     font-family: 'Helvetica Neue', serif;
     font-weight: 400;
     font-style: italic;
-    text-transform: uppercase;
     color: #eee;
 }
 
@@ -715,11 +714,56 @@ main {
     margin-right: 5px;
 }
 
-/* onboarding */
-#onboarding {
-    padding: 70px 0;
+/* staticrypt */
+#staticrypt-form {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 0;
+}
+#staticrypt-form input {
+    font-size: 14px;
+    outline: none;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #bbb;
+    padding: 5px 5px;
+    text-align: center;
+}
+#staticrypt-form input[type="submit"] {
+    color: #bbb;
+    background-color: transparent;
 }
 
+/* onboarding */
+#onboarding {
+    color: #eee;
+    padding: 70px 0;
+}
+#onboarding .link {
+    background-color: #444;
+    padding: 6px 10px;
+    margin: 15px 0 15px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    transition: background-color .2s;
+    cursor: pointer;
+}
+#onboarding .link:hover {
+    background-color: #333;
+}
+#onboarding .link:active {
+    background-color: #222;
+}
+#onboarding .link i {
+    margin-right: 3px;
+}
+#onboarding li {
+    font-style: italic;
+}
 
 /**
  * 6.0 Footer
