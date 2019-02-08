@@ -765,6 +765,43 @@ main {
     font-style: italic;
 }
 
+/* 404 */
+#pageNotFound {
+    background-image: url(/img/static.gif);
+    background-position: center;
+}
+#pageNotFound section {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+#pageNotFound h1 {
+    color: #bbb;
+    font-size: 108px;
+    margin: 0;
+}
+#pageNotFound p {
+    color: #bbb;
+    margin: -10px 0 10px 0;
+}
+#pageNotFound a,
+#pageNotFound a:link,
+#pageNotFound a:active,
+#pageNotFound a:visited {
+
+    margin: 50px;
+    display: inline-block;
+    transition: transform .3s;
+}
+#pageNotFound a:hover {
+    transform: translateX(5px);
+}
+#pageNotFound a i {
+    margin-right: 3px;
+}
+
 /**
  * 6.0 Footer
  */
