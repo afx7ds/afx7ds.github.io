@@ -1,0 +1,284 @@
+{
+	"kirk": {
+		"name": "Kirk La",
+		"year": "grad",
+		"insta": ["smirk_la"],
+		"committee": "director"
+	},
+	"mark": {
+		"name": "Mark Reed",
+		"year": "grad",
+		"insta": ["fulloutreed"],
+		"committee": "director"
+	},
+	"max": {
+		"name": "Max Yeo",
+		"year": "grad",
+		"insta": ["maxwellyeo"],
+		"committee": "director"
+	},
+	"allan": {
+		"name": "Allan Chin",
+		"year": "grad",
+		"insta": ["itsallanc"],
+		"committee": "design"
+	},
+	"amanda": {
+		"name": "Amanda Harmon",
+		"year": "sophomore",
+		"insta": ["am00nd"],
+		"committee": "logistics"
+	},
+	"amyc": {
+		"name": "Amy Cha",
+		"year": "freshman",
+		"insta": ["amyyyyycha"],
+		"committee": "logistics"
+	},
+	"amys": {
+		"name": "Amy Shen",
+		"year": "junior",
+		"insta": ["amyshen100"],
+		"committee": "pr"
+	},
+	"annie": {
+		"name": "Annie Wang",
+		"year": "senior",
+		"insta": ["bananannieee"],
+		"committee": "events"
+	},
+	"anthony": {
+		"name": "Anthony Chen",
+		"year": "sophomore",
+		"insta": ["@framingcolors", "@antonvanshroom"],
+		"committee": "design"
+	},
+	"atlas": {
+		"name": "Atlas Yuen",
+		"year": "freshman",
+		"insta": ["atlas.yuen"],
+		"committee": "social"
+	},
+	"bryan": {
+		"name": "Bryan Lov",
+		"year": "senior",
+		"insta": ["bryanlov"],
+		"committee": "social"
+	},
+	"caroline": {
+		"name": "Caroline Cao",
+		"year": "freshman",
+		"insta": ["coocoo_caroline"],
+		"committee": "events"
+	},
+	"christian": {
+		"name": "Christian Nixon",
+		"year": "freshman",
+		"insta": ["christiannixon"],
+		"committee": "pr"
+	},
+	"dan": {
+		"name": "Daniel Chung",
+		"year": "senior",
+		"insta": ["denjangc"],
+		"committee": "pr"
+	},
+	"david": {
+		"name": "David Lee",
+		"year": "grad",
+		"insta": ["leed1993"],
+		"committee": "social"
+	},
+	"emily": {
+		"name": "Emily Zhang",
+		"year": "junior",
+		"insta": ["emilyczhang"],
+		"committee": "social"
+	},
+	"eric": {
+		"name": "Eric Park",
+		"year": "grad",
+		"insta": ["piratedcupcakes"],
+		"committee": "social"
+	},
+	"evelyn": {
+		"name": "Evelyn Lee",
+		"year": "freshman",
+		"insta": ["hyeonylee"],
+		"committee": "design"
+	},
+	"helen": {
+		"name": "Helen Wang",
+		"year": "sophomore",
+		"insta": ["helennnwang"],
+		"committee": "social"
+	},
+	"henry": {
+		"name": "Henry Cheung",
+		"year": "sophomore",
+		"insta": ["henrytravels"],
+		"committee": "logistics"
+	},
+	"jacob": {
+		"name": "Jacob Ngo",
+		"year": "junior",
+		"insta": ["jacob._.ngo"],
+		"committee": "pr"
+	},
+	"jared": {
+		"name": "Jared Shao",
+		"year": "junior",
+		"insta": ["dnjshao"],
+		"committee": "events"
+	},
+	"jason": {
+		"name": "Jason Wong",
+		"year": "sophomore",
+		"insta": ["_jayson.wong_"],
+		"committee": "logistics"
+	},
+	"jeffrey": {
+		"name": "Jeffrey Wang",
+		"year": "grad",
+		"insta": ["taofuri"],
+		"committee": "logistics"
+	},
+	"jenj": {
+		"name": "Jennifer Jo",
+		"year": "sophomore",
+		"insta": ["jenn_jo_yoon"],
+		"committee": "pr"
+	},
+	"jenz": {
+		"name": "Jennifer Zhang",
+		"year": "junior",
+		"insta": ["jennzhang__"],
+		"committee": "logistics"
+	},
+	"jeremiah": {
+		"name": "Jeremiah Kim",
+		"year": "sophomore",
+		"insta": ["jeremiahykim"],
+		"committee": "events"
+	},
+	"jocelyn": {
+		"name": "Jocelyn Liu",
+		"year": "junior",
+		"insta": ["joshieliu"],
+		"committee": "events"
+	},
+	"joy": {
+		"name": "Joy Li",
+		"year": "junior",
+		"insta": ["joyylii"],
+		"committee": "pr"
+	},
+	"kassie": {
+		"name": "Kassandra Mendez",
+		"year": "freshman",
+		"insta": ["Kassie_annette"],
+		"committee": "events"
+	},
+	"laura": {
+		"name": "Laura Mackenzie",
+		"year": "sophomore",
+		"insta": ["aisha331"],
+		"committee": "pr"
+	},
+	"leeann": {
+		"name": "LeeAnn Wang",
+		"year": "junior",
+		"insta": ["usualeeannxious"],
+		"committee": "logistics"
+	},
+	"melissa": {
+		"name": "Melissa Zhang",
+		"year": "freshman",
+		"insta": ["meli.zhng"],
+		"committee": "design"
+	},
+	"michael": {
+		"name": "Michael Chou",
+		"year": "sophomore",
+		"insta": ["mchou359"],
+		"committee": "events"
+	},
+	"nic": {
+		"name": "Nicolas Liang",
+		"year": "junior",
+		"insta": ["nicliang_"],
+		"committee": "social"
+	},
+	"peony": {
+		"name": "Peony Chung",
+		"year": "freshman",
+		"insta": ["peonychung_"],
+		"committee": "design"
+	},
+	"rachel": {
+		"name": "Rachel Wang",
+		"year": "sophomore",
+		"insta": ["rachelw.cal"],
+		"committee": "events"
+	},
+	"raymond": {
+		"name": "Raymond Tan",
+		"year": "junior",
+		"insta": ["id.xray"],
+		"committee": "pr"
+	},
+	"samantha": {
+		"name": "Samantha Fang",
+		"year": "junior",
+		"insta": ["samantha.fang"],
+		"committee": "design"
+	},
+	"sarah": {
+		"name": "Sarah Yoon",
+		"year": "freshman",
+		"insta": ["sarahyooon"],
+		"committee": "logistics"
+	},
+	"sheena": {
+		"name": "Sheena Echano",
+		"year": "freshman",
+		"insta": ["sheena.de"],
+		"committee": "pr"
+	},
+	"shirley": {
+		"name": "Shirley Li",
+		"year": "senior",
+		"insta": ["lishirley97"],
+		"committee": "design"
+	},
+	"skye": {
+		"name": "Skye Zhang",
+		"year": "sophomore",
+		"insta": ["skye_zht"],
+		"committee": "design"
+	},
+	"skylar": {
+		"name": "Skylar Schaubel",
+		"year": "freshman",
+		"insta": ["skylar.schaubel"],
+		"committee": "design"
+	},
+	"stella": {
+		"name": "Stella Wang",
+		"year": "junior",
+		"insta": ["stellaywang"],
+		"committee": "logistics"
+	},
+	"una": {
+		"name": "Una McMahon",
+		"year": "freshman",
+		"insta": ["unaclara.m"],
+		"committee": "social"
+	},
+	"winston": {
+		"name": "Winston Nguyen",
+		"year": "freshman",
+		"insta": ["_nguyenston_"],
+		"committee": "events"
+	}
+}

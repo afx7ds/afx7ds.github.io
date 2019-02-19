@@ -1,4 +1,4 @@
-/*
+
 Theme Name: AFX7DS 2019
 Author: Max Yeo
 Author URI: http://maxwellyeo.com
@@ -765,6 +765,29 @@ main {
     font-style: italic;
 }
 
+/* Mix */
+#mix {
+    padding: 50px 0;
+    text-align: center;
+}
+.cut {
+    padding: 20px 0;
+}
+.cut-art {
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 20px;
+}
+.cut audio {
+    display: inline-block;
+    vertical-align: middle;
+}
+
 /* 404 */
 #pageNotFound {
     background-image: url(/img/static.gif);
@@ -804,4 +827,4 @@ main {
 
 /**
  * 6.0 Footer
- */
+ 
